@@ -1,5 +1,7 @@
 # AngularTodo
 
+This is a simple project written to refresh basic knowledge of Angular Framework.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
